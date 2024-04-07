@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/sovanshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sovanshit" height="30" width="40" /></a>
 <a href="https://fb.com/sovan shitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sovan shitt" height="30" width="40" /></a>
 <a href="https://instagram.com/sovan_shit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sovan_shit_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sovan creation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sovan creation" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@sovancreation3618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sovancreation3618" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
