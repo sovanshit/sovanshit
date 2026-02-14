@@ -15,9 +15,9 @@ Email Me 👉 ✉️ **sovanshit20@gmail.com** For Collaboration/Project or Anyt
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-[![Sovan YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/@sovancreation3618) [![Sovan Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/sovan_shit_?igsh=MXZ1ZG50NTVoOHV0YQ==) [![Sovan Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://m.facebook.com/sovan.shitt.1/) [![Sovan Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://x.com/Sovanshit123)
+[![Sovan YouTube Channel](https://img.shields.io/badge/YouTube-Sovan%20Creation-red?logo=youtube&logoColor=white)](https://www.youtube.com/@sovancreation3618) [![Sovan Instagram](https://img.shields.io/badge/Instagram-Sovan%20Shit-pink?logo=instagram&logoColor=white)](https://www.instagram.com/sovan_shit_?igsh=MXZ1ZG50NTVoOHV0YQ==) [![Sovan Facebook](https://img.shields.io/badge/Facebook-Sovan%20Shit-blue?logo=facebook&logoColor=white)](https://m.facebook.com/sovan.shitt.1/) [![Sovan Twitter](https://img.shields.io/badge/Twitter-Sovan%20Shit-lightblue?logo=twitter&logoColor=white)](https://x.com/Sovanshit123)
 
-
+[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Snake Game Repo View -->
 
