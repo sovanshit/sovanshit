@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **sovanshit20@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** :books:![See Project](https://github.com/sovanshit/codealpha_tasks)
+- 🔭 **I’m currently working on:** :books:[See Project](https://github.com/sovanshit/codealpha_tasks)
 - 🌱 **I’m currently learning:** Devops
 - 👯 **I’m looking to collaborate on:** Kubernetes Cluster Deployment
 - 🤔 **I’m looking for help with:** JENKINS + GITHUB + MAVEN + TOMCAT - Integration
