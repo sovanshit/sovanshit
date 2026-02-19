@@ -35,6 +35,8 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+### 🔝 Top Contributed Repo
+![](https://camo.githubusercontent.com/89a0fadf8a93a25dc9eb02a76b661896b76b2c3a2575e2f1459e6981d34cdaea/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d736f76616e7368697426)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sovan_shit_?igsh=MXZ1ZG50NTVoOHV0YQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sovan-shit-a4a767374/)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sovancreation3618) 
@@ -42,8 +44,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://camo.githubusercontent.com/89a0fadf8a93a25dc9eb02a76b661896b76b2c3a2575e2f1459e6981d34cdaea/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d736f76616e7368697426)
+
 
 
 
