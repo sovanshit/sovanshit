@@ -34,7 +34,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 ### 🔝 Top Contributed Repo
 ![](https://camo.githubusercontent.com/89a0fadf8a93a25dc9eb02a76b661896b76b2c3a2575e2f1459e6981d34cdaea/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d736f76616e7368697426)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+
 ![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
 
